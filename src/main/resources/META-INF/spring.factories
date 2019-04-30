@@ -1,0 +1,3 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.sustav.lviv.DevProfileResolverEnviromentPostProcessor
+org.springframework.context.ApplicationContextInitializer=com.sustav.lviv.ProfileStoper
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.sustav.lviv.Conf
